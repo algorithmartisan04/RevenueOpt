@@ -1,0 +1,18 @@
+.dashboard {
+    margin-top: 20px;
+  }
+  
+  .dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dashboard th, .dashboard td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .dashboard th {
+    background-color: #f2f2f2;
+  }
+  
